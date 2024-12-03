@@ -4,3 +4,4 @@
 
 3- Execute o Sintatico.py, uma mensagem de sucesso ou erro para a analise será gerada. (O erro ira aparecer no console, caso o codigo C possua algum.)
 
+OBS: Como exemplo o codigo C está sem o fechamento da chave da main, logo vai gerar um erro.
