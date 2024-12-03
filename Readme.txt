@@ -2,5 +2,5 @@
 
 2- Execute o Lex.py, uma tabela de simbolos será gerada no excel e em um arquivo json. (Caso o arquivo "tabela_simbolos_1" já exista, apague com antes)
 
-2- Execute o Sintatico.py, uma mensagem de sucesso ou erro para a analise será gerada.
+3- Execute o Sintatico.py, uma mensagem de sucesso ou erro para a analise será gerada. (O erro ira aparecer no console, caso o codigo C possua algum.)
 
